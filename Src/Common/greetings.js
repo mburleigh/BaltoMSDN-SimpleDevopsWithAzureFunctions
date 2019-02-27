@@ -4,7 +4,7 @@ module.exports = {
     },
 
     Klingon: function () {
-        return 'Qaplaxxx'
+        return 'Qapla'
     },
 
     Jedi: function () {
